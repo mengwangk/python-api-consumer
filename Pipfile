@@ -5,8 +5,13 @@ name = "pypi"
 
 [packages]
 requests = "*"
+sqlalchemy = "*"
+impyla = "*"
+pandas = "*"
 
 [dev-packages]
+pytest = "*"
+vcrpy = "*"
 
 [requires]
 python_version = "3.7"
