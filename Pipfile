@@ -8,6 +8,7 @@ requests = "*"
 sqlalchemy = "*"
 impyla = "*"
 pandas = "*"
+requests-oauthlib = "*"
 
 [dev-packages]
 pytest = "*"
